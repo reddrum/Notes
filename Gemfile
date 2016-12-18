@@ -24,6 +24,8 @@ gem 'simple_form', '~> 3.3', '>= 3.3.1'
 
 gem 'devise', '~> 4.2'
 
+gem 'font-awesome-sass'
+
 group :development, :test do
 
   gem 'byebug', platform: :mri
